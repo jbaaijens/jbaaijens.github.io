@@ -8,9 +8,10 @@ author_profile: true
 My research focuses on genome assembly, the process of reconstructing a genome 
 from sequencing data. This is a challenging process, where algorithmic accuracy 
 as well as efficiency are crucial. By developing new approaches to several 
-relevant assembly problems I try to further our understanding of microbial 
-genomics. Further details on my contributions to the topics described below 
-can be found in my Publications.
+relevant assembly problems we can make better use of sequencing data and
+extend our understanding of microbial genomics. Further details on my 
+contributions to the topics described below can be found in my
+[Publications](https://jbaaijens.github.io/publications/).
 
 
 ### Haplotype reconstruction
@@ -30,21 +31,10 @@ particularly challenging: beyond distinguishing true genomic variation from
 sequencing artifacts, the true variants need to be assigned to the different 
 genome copies.
 
-In my PhD thesis I discuss the topic of haplotype reconstruction and present 
-new algorithms for de novo haplotype assembly (see also Software).
-
- 
-### Strain-aware metagenomics
-
-Metagenomics studies the genetic material found in environmental samples, for 
-example taken from the ocean or the human gut. These samples typically contain 
-a large number of different species, as well as different strains from the 
-same species; a metagenome captures all genomes in a given microbial community. 
-The goal of strain-aware metagenome assembly is to reconstruct each of the 
-individual genomes in a metagenome, thus preserving all within-species 
-variation. I have developed an approach for strain-aware assembly from mixed 
-samples which will be extended to an accurate workflow for strain-aware 
-metagenomics.
+In my [PhD thesis](http://dspace.library.uu.nl/handle/1874/384508)
+I discuss the topic of haplotype reconstruction and present 
+new algorithms for de novo haplotype assembly (see also
+[Software](https://jbaaijens.github.io/software/)).
 
  
 ### Viral quasispecies assembly
@@ -57,7 +47,22 @@ a result, the virus exists as a “quasispecies”: a cloud of closely-related
 mutant strains, each with its own characteristics in terms of virulence and 
 resistance. Since knowledge of the infecting strains contributes to improved 
 treatment design, I have developed a series of methods that enables highly 
-accurate, full-length viral quasispecies assembly.
+accurate, full-length viral quasispecies assembly. See
+[this video](https://www.youtube.com/watch?v=ffgoHfcX9Sk&t=2s) 
+for an animated explanation of one of these algorithms.
+
+ 
+### Strain-aware metagenomics
+
+Metagenomics studies the genetic material found in environmental samples, for
+example taken from the ocean or the human gut. These samples typically contain
+a large number of different species, as well as different strains from the
+same species; a metagenome captures all genomes in a given microbial community.
+The goal of strain-aware metagenome assembly is to reconstruct each of the
+individual genomes in a metagenome, thus preserving all within-species
+variation. Based on my experience with viral metagenomics
+(see viral quasispecies above) we are working on an accurate workflow for
+strain-aware metagenomics.
 
  
 ### Bacterial evolutionary genomics
