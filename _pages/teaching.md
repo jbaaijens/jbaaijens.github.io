@@ -5,15 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<h2>Courses</h2>
+## Courses
 
 Spring 2022: NB2161 Bioinformatics (BSc Nanobiology, TU Delft).
 
 
-<h2>Student projects</h2>
+## Student projects
 
-If you are looking for a research project (BSc or MSc thesis), please <a href="https://jbaaijens.github.io/contact/">reach out</a>! 
-<!-- [reach out](https://jbaaijens.github.io/contact/)! -->
+If you are looking for a research project (BSc or MSc thesis), please [reach out](https://jbaaijens.github.io/contact/)!
 
 <!-- {% include base_path %}
 
