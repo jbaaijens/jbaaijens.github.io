@@ -68,4 +68,4 @@ capture relationships between pre-assembled contigs, and the final output is
 represented in the form of a genome variation graph. Further details are
 described in our [Bioinformatics paper](https://pubmed.ncbi.nlm.nih.gov/31147688/). 
 
-Virus-VG is publicly available under the MIT license at https://bitbucket.org/jbaaijens/virus-vg.
+Virus-VG is publicly available under the MIT license at [https://bitbucket.org/jbaaijens/virus-vg](https://bitbucket.org/jbaaijens/virus-vg).
