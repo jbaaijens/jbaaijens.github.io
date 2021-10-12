@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 Jasmijn Baaijens\
-Pattern Recognition and Bioinformatics - Department of Intelligent Systems\
+Department of Intelligent Systems\
 Faculty of Electrical Engineering, Mathematics and Computer Science\
 Delft University of Technology
 
-<u>Office:</u>
+<u>Office:</u>\
 B28-5.W.620\
 Van Mourik Broekmanweg 6\
 2628 XE Delft\
