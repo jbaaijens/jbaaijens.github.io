@@ -1,7 +1,7 @@
 ---
 title: "Virus pangenomics"
 collection: talks
-type: "Lecture"
+type: "Summer school lecture"
 permalink: /talks/Como-Pangenomics-2022
 venue: "Introduction to Pangenomics"
 date: 2022-07-07
