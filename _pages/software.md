@@ -10,15 +10,18 @@ author_profile: true
 AmpliDiff is a computational tool for designing amplicons for viral metagenome 
 analysis. AmpliDiff finds amplicons and corresponding primers 
 *simultaneously*, in order to differentiate maximally between different 
-lineages, strains, or species, as defined by the user. 
+lineages, strains, or species, as defined by the user. The method is described in our [biorxiv preprint](https://www.biorxiv.org/content/10.1101/2023.07.22.550164v2).
+
+AmpliDiff is implemented in Python and publicly available on [github](https://github.com/JaspervB-tud/AmpliDiff/).
 
 
 ## VLQ: Viral Lineage Quantification
 
 VLQ enables fast and accurate SARS-CoV-2 variant prediction from wastewater 
 sequencing data. The approach is based on computational techniques initially 
-used for RNA-Seq quantification (kallisto). VLQ is implemented in python/bash 
-and publicly available on [github](\url{https://github.com/baymlab/wastewater_analysis).
+used for RNA-Seq quantification (kallisto). All details are described in our [Genome Biology paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02805-9). 
+
+VLQ is implemented in python/bash and publicly available on [github](\url{https://github.com/baymlab/wastewater_analysis).
 There is also a [NextFlow implementation](https://github.com/rki-mf1/vlq-nf) 
 of VLQ.
 
