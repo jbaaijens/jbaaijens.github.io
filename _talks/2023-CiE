@@ -1,0 +1,11 @@
+---
+title: "AmpliDiff: an Optimized Amplicon Sequencing Approach to Estimating Lineage Abundances in Viral Metagenomes"
+collection: talks
+type: "Conference talk"
+permalink: /talks/CiE-2023
+venue: "Computability in Europe (CiE) 2023"
+date: 2023-07-25
+location: "online"
+---
+
+Presenting our first results with (AmpliDiff)[https://github.com/JaspervB-tud/AmpliDiff/], great algorithmic work by Jasper van Bemmelen.
