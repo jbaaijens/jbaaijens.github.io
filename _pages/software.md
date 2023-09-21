@@ -5,6 +5,24 @@ permalink: /software/
 author_profile: true
 ---
 
+## AmpliDiff
+
+AmpliDiff is a computational tool for designing amplicons for viral metagenome 
+analysis. AmpliDiff finds amplicons and corresponding primers 
+*simultaneously*, in order to differentiate maximally between different 
+lineages, strains, or species, as defined by the user. 
+
+
+## VLQ: Viral Lineage Quantification
+
+VLQ enables fast and accurate SARS-CoV-2 variant prediction from wastewater 
+sequencing data. The approach is based on computational techniques initially 
+used for RNA-Seq quantification (kallisto). VLQ is implemented in python/bash 
+and publicly available on [github](\url{https://github.com/baymlab/wastewater_analysis).
+There is also a [NextFlow implementation](https://github.com/rki-mf1/vlq-nf) 
+of VLQ.
+
+
 ## HaploConduct
 
 HaploConduct is a package designed for reconstruction of individual haplotypes
