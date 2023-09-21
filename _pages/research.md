@@ -13,6 +13,10 @@ extend our understanding of microbial genomics. Further details on my
 contributions to the topics described below can be found in my
 [Publications](https://jbaaijens.github.io/publications/).
 
+### Wastewater analysis
+
+Wastewater analysis is a powerful tool for infectious disease surveillance. For example, it has an important role in detection and monitoring of viral infections, including COVID-19 and polio. However, identifying and quantifying viral lineages present in wastewater samples can be challenging dure to the complexity of the data, low concentrations of genetic material of interest and high fragmentation rates. To address these challenges, we develop algorithms for the design and analysis of targeted wastewater sequencing data. This includes AmpliDiff and VLQ, further described in [Software](https://jbaaijens.github.io/software/). The field of wastewater analysis is rapidly developing and holds great potential for wide-scale genomic surveillance of pathogens.
+
 
 ### Haplotype reconstruction
 
