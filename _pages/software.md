@@ -10,7 +10,7 @@ author_profile: true
 AmpliDiff is a computational tool for designing amplicons for viral metagenome 
 analysis. AmpliDiff finds amplicons and corresponding primers 
 *simultaneously*, in order to differentiate maximally between different 
-lineages, strains, or species, as defined by the user. The method is described in our [biorxiv preprint](https://www.biorxiv.org/content/10.1101/2023.07.22.550164v2).
+lineages, strains, or species, as defined by the user. The method is described in our [BMC Bioinformatics paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05735-4).
 
 AmpliDiff is implemented in Python and publicly available on [github](https://github.com/JaspervB-tud/AmpliDiff/).
 
