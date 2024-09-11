@@ -11,9 +11,12 @@ Spring 2022: NB2161 Bioinformatics (BSc Nanobiology, TU Delft).
 
 Spring 2023: NB2161 Bioinformatics (BSc Nanobiology, TU Delft).
 
-Fall 2023: [Algorithms for Genomics](https://www.dtls.nl/courses/algorithms-for-genomics/) (BioSB).
+Fall 2023: [Algorithms for Genomics](https://www.dtls.nl/courses/algorithms-for-genomics/) (PhD course, BioSB) and mentor for CSE1000 Mentorate (BSc Computer Science and Engineering, TU Delft).
 
 Spring 2024: NB2161 Bioinformatics (BSc Nanobiology, TU Delft) and CS4329 Recent topics in bioinformatics (MSc Computer Science, TU Delft).
+
+Fall 2024: CS4255 Algorithms for Sequence-Based Bioinformatics (MSc Computer Science, TU Delft) and mentor for CSE1000 Mentorate (BSc Computer Science and Engineering, TU Delft).
+
 
 
 ## Student projects
