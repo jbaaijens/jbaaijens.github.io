@@ -26,9 +26,9 @@ There is also a [NextFlow implementation](https://github.com/rki-mf1/vlq-nf)
 of VLQ.
 
 
-## ORCA: 
+## ORCA: Predicting replication origins in circular prokaryotic chromosomes
 
-A toolbox for predicting the location of the origin of replication (oriC) of circular bacterial genomes, as well as analyzing and plotting Z-curves, GC-skew, dnaA-boxes, and gene locations. ORCA is implemented in Python3, easily installable through [PyPi](https://pypi.org/project/orcapy/) and also publicly available on [github](https://github.com/ZoyavanMeel/ORCA).
+A toolbox for predicting the location of the origin of replication (oriC) of circular bacterial genomes, as well as analyzing and plotting Z-curves, GC-skew, dnaA-boxes, and gene locations. Methods are described in our [preprint](https://www.biorxiv.org/content/10.1101/2024.03.28.587133v1). ORCA is implemented in Python3, easily installable through [PyPi](https://pypi.org/project/orcapy/) and also publicly available on [github](https://github.com/ZoyavanMeel/ORCA).
 
 
 ## HaploConduct
